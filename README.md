@@ -22,5 +22,5 @@ All codes were based on the cited book.
 7. Herança
 8. Herança múltipla
 9. Classes abstratas e polimorfismos
-A. Exercícios
+- Exercícios
 - Referências
