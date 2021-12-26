@@ -10,3 +10,17 @@ The site to buy the book: [Amazon](https://www.amazon.com.br/Introdu%C3%A7%C3%A3
 All codes were based on the cited book.
 
 <img src="img/OOP-Book.jpg" width="400px">
+
+## Content
+
+1. Um pouco sobre C++
+2. Um pouco sobre Python
+3. Motivações para orientação a objetos
+4. Classes e objetos
+5. Construtores, destrrutores e atributos de classe
+6. Associações entre classes
+7. Herança
+8. Herança múltipla
+9. Classes abstratas e polimorfismos
+A. Exercícios
+- Referências
