@@ -24,3 +24,7 @@ All codes were based on the cited book.
 9. Classes abstratas e polimorfismos
 - Exercícios
 - Referências
+
+## Others
+
+See also the repository [course-python](https://github.com/thiagoneye/course-python).
