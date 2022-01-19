@@ -11,7 +11,7 @@ All codes were based on the cited book.
 
 <img src="img/OOP-Book.jpg" width="400px">
 
-## Content
+## Contents
 
 1. Um pouco sobre C++
 2. Um pouco sobre Python
